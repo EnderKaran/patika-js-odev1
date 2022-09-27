@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+    background-color: bisque;
+    width: 55%;
+    margin-left: 380px;
+    border-radius: 13px;
+}
+.container > h1 {
+    color: orange;
+}
+.container > p{
+    color: orange;
+}
+#fullnamee{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.kalin:hover{
+    color: white;
+}
